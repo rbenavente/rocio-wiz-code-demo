@@ -1,6 +1,6 @@
 {
   "name": "prime_car_dealer_app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prime Car Dealer App",
   "main": "app.js",
   "scripts": {
